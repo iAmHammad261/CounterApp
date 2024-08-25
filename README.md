@@ -7,8 +7,7 @@
 A simple app that makes use of Zustand for State management, along with the "persist" middleware, with "MMKV" local storage, to ensure that data persists, even if app is closed or reloaded.
 
 ## Preview
-
-
+[CounterAppVid.webm](https://github.com/user-attachments/assets/34dc6399-a7ab-4714-ae6f-5f592342ec72)
 
 ## 🛠 Tools Used
 1) Zustand with persist middleware
